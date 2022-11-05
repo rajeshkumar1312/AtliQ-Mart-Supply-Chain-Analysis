@@ -35,7 +35,7 @@ Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart 
 </p>
 
   ### Dashboard
-  
+  -------
 <p align="center">
   <img src="Dash board/Supply chain analysis on FMCG Project  by codebasics power bi_page-0001.jpg" height="400">
 </p>
